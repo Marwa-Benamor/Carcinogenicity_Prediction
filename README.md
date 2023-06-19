@@ -8,6 +8,14 @@ Ce projet vise à prédire la carcinogénicité des composés organiques à part
 
 Captures d'écran:
 ![](cap1.jpg)
+![](cap2.jpg)
+![](cap3.jpg)
+![](cap4.jpg)
+![](cap5.jpg)
+![](cap5suite.jpg)
+![](cap6.jpg)
+![](cap7.jpg)
+![](cap8.jpg)
 
 Méthodologie:
 
